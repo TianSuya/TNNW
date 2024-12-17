@@ -1,0 +1,304 @@
+Files already downloaded and verified
+Files already downloaded and verified
+In Epoch:0/50, Mean Loss is:2.6437462918360266
+Test Acc is:44.34, Test Loss is:1.5344956520080566
+/data/bowen/miniconda3/envs/tbw/lib/python3.8/site-packages/torch/nn/_reduction.py:42: UserWarning: size_average and reduce args will be deprecated, please use reduction='sum' instead.
+  warnings.warn(warning.format(ret))
+In Epoch:1/50, Mean Loss is:1.568553366572599
+Test Acc is:49.9, Test Loss is:1.3934652925491333
+In Epoch:2/50, Mean Loss is:1.3975440304171025
+Test Acc is:56.54, Test Loss is:1.2182654563903808
+In Epoch:3/50, Mean Loss is:1.2602066657364712
+Test Acc is:57.53, Test Loss is:1.1765720936775208
+In Epoch:4/50, Mean Loss is:1.1455250814490339
+Test Acc is:62.71, Test Loss is:1.0637940752983093
+In Epoch:5/50, Mean Loss is:1.054654126604322
+Test Acc is:66.15, Test Loss is:0.9687643023490906
+In Epoch:6/50, Mean Loss is:0.9870215262919759
+Test Acc is:67.39, Test Loss is:0.9383617477416992
+In Epoch:7/50, Mean Loss is:0.9285117479295053
+Test Acc is:69.67, Test Loss is:0.877456255531311
+In Epoch:8/50, Mean Loss is:0.8803809604542574
+Test Acc is:69.67, Test Loss is:0.8769612524986267
+In Epoch:9/50, Mean Loss is:0.8445458910019826
+Test Acc is:74.55, Test Loss is:0.7428929339408874
+In Epoch:10/50, Mean Loss is:0.7212062095383078
+Test Acc is:77.27, Test Loss is:0.6699658762931824
+In Epoch:11/50, Mean Loss is:0.6862404353330323
+Test Acc is:77.16, Test Loss is:0.6614594651699066
+In Epoch:12/50, Mean Loss is:0.6700249037259066
+Test Acc is:77.57, Test Loss is:0.6540236743927001
+In Epoch:13/50, Mean Loss is:0.658282149823827
+Test Acc is:77.92, Test Loss is:0.6454804029464721
+In Epoch:14/50, Mean Loss is:0.6458428460134579
+Test Acc is:77.93, Test Loss is:0.6480479201793671
+In Epoch:15/50, Mean Loss is:0.6388635402181861
+Test Acc is:78.77, Test Loss is:0.6295759405136109
+In Epoch:16/50, Mean Loss is:0.6265718401794013
+Test Acc is:78.47, Test Loss is:0.6304769241333008
+In Epoch:17/50, Mean Loss is:0.619936809267894
+Test Acc is:77.32, Test Loss is:0.6543384354114532
+In Epoch:18/50, Mean Loss is:0.6125293993942263
+Test Acc is:78.79, Test Loss is:0.6205995690345765
+In Epoch:19/50, Mean Loss is:0.608549883301946
+Test Acc is:78.44, Test Loss is:0.633154528427124
+In Epoch:20/50, Mean Loss is:0.561393994153957
+Test Acc is:80.15, Test Loss is:0.5865454383850097
+In Epoch:21/50, Mean Loss is:0.5512035018594618
+Test Acc is:80.17, Test Loss is:0.5833382975339889
+In Epoch:22/50, Mean Loss is:0.5473381711440596
+Test Acc is:80.13, Test Loss is:0.5832509684801102
+In Epoch:23/50, Mean Loss is:0.5429810597796663
+Test Acc is:80.01, Test Loss is:0.5836595721244812
+In Epoch:24/50, Mean Loss is:0.5411672195466146
+Test Acc is:80.21, Test Loss is:0.5741990690708161
+In Epoch:25/50, Mean Loss is:0.5385519054575906
+Test Acc is:80.14, Test Loss is:0.5747019926071167
+In Epoch:26/50, Mean Loss is:0.5334141177297478
+Test Acc is:80.31, Test Loss is:0.5745909607410431
+In Epoch:27/50, Mean Loss is:0.530289759362499
+Test Acc is:80.53, Test Loss is:0.5652438580036163
+In Epoch:28/50, Mean Loss is:0.5309059907821074
+Test Acc is:80.7, Test Loss is:0.5684925730466842
+In Epoch:29/50, Mean Loss is:0.5243421557311133
+Test Acc is:80.33, Test Loss is:0.5734680062770844
+In Epoch:30/50, Mean Loss is:0.5143753963731759
+Test Acc is:80.86, Test Loss is:0.5632380003929138
+In Epoch:31/50, Mean Loss is:0.5139357293655075
+Test Acc is:81.06, Test Loss is:0.5593542030572891
+In Epoch:32/50, Mean Loss is:0.5108138712090861
+Test Acc is:80.71, Test Loss is:0.5614245805978775
+In Epoch:33/50, Mean Loss is:0.5121715783081372
+Test Acc is:81.02, Test Loss is:0.558049581193924
+In Epoch:34/50, Mean Loss is:0.5103010301950721
+Test Acc is:80.98, Test Loss is:0.5605947703361511
+In Epoch:35/50, Mean Loss is:0.5089871176087696
+Test Acc is:81.03, Test Loss is:0.5573129127025604
+In Epoch:36/50, Mean Loss is:0.5090799223123952
+Test Acc is:81.09, Test Loss is:0.558362229514122
+In Epoch:37/50, Mean Loss is:0.5076439867769764
+Test Acc is:81.0, Test Loss is:0.5587034338235856
+In Epoch:38/50, Mean Loss is:0.5070387810678415
+Test Acc is:80.96, Test Loss is:0.5575304608345032
+In Epoch:39/50, Mean Loss is:0.5038030114136899
+Test Acc is:80.81, Test Loss is:0.5585952527046204
+In Epoch:40/50, Mean Loss is:0.5019250974125841
+Test Acc is:80.96, Test Loss is:0.5603699530124664
+In Epoch:41/50, Mean Loss is:0.5093445593225445
+Test Acc is:81.09, Test Loss is:0.5565427605867386
+In Epoch:42/50, Mean Loss is:0.5063209596613776
+Test Acc is:81.0, Test Loss is:0.5588608765602112
+In Epoch:43/50, Mean Loss is:0.5001977508600446
+Test Acc is:80.94, Test Loss is:0.5575140616416931
+In Epoch:44/50, Mean Loss is:0.5033098310041488
+Test Acc is:81.09, Test Loss is:0.5591084747552871
+In Epoch:45/50, Mean Loss is:0.502089164631533
+Test Acc is:81.04, Test Loss is:0.5568923401117325
+In Epoch:46/50, Mean Loss is:0.499624999627347
+Test Acc is:81.28, Test Loss is:0.5563748216867447
+In Epoch:47/50, Mean Loss is:0.50004045635233
+Test Acc is:81.02, Test Loss is:0.5578727759599685
+In Epoch:48/50, Mean Loss is:0.4992105813741074
+Test Acc is:81.16, Test Loss is:0.5558309045076371
+In Epoch:49/50, Mean Loss is:0.5017740233483714
+Test Acc is:81.19, Test Loss is:0.555350886797905
+In Save Epoch, Test Acc is:81.1, Test Loss is:0.5545870816469193
+In Save Epoch, Test Acc is:81.13, Test Loss is:0.5548031555175781
+In Save Epoch, Test Acc is:81.24, Test Loss is:0.5531390049695969
+In Save Epoch, Test Acc is:81.12, Test Loss is:0.5548015444517136
+In Save Epoch, Test Acc is:81.2, Test Loss is:0.5524540478467941
+In Save Epoch, Test Acc is:81.13, Test Loss is:0.5531552247524262
+In Save Epoch, Test Acc is:81.17, Test Loss is:0.5541819849967956
+In Save Epoch, Test Acc is:81.12, Test Loss is:0.5532641395330429
+In Save Epoch, Test Acc is:81.2, Test Loss is:0.553586811876297
+In Save Epoch, Test Acc is:81.17, Test Loss is:0.5533253306388854
+In Save Epoch, Test Acc is:81.24, Test Loss is:0.5516255179643631
+In Save Epoch, Test Acc is:81.31, Test Loss is:0.551421244764328
+In Save Epoch, Test Acc is:81.31, Test Loss is:0.5507779104948044
+In Save Epoch, Test Acc is:81.32, Test Loss is:0.5536375146865845
+In Save Epoch, Test Acc is:81.33, Test Loss is:0.5483956390857696
+In Save Epoch, Test Acc is:81.27, Test Loss is:0.551565942287445
+In Save Epoch, Test Acc is:81.29, Test Loss is:0.5503866412878037
+In Save Epoch, Test Acc is:81.32, Test Loss is:0.5492564692735672
+In Save Epoch, Test Acc is:81.41, Test Loss is:0.5491415046930314
+In Save Epoch, Test Acc is:81.25, Test Loss is:0.5502524439573288
+In Save Epoch, Test Acc is:81.36, Test Loss is:0.5494017554283142
+In Save Epoch, Test Acc is:81.43, Test Loss is:0.5503145283699036
+In Save Epoch, Test Acc is:81.17, Test Loss is:0.5491942605257034
+In Save Epoch, Test Acc is:81.34, Test Loss is:0.5507859176158905
+In Save Epoch, Test Acc is:81.58, Test Loss is:0.546127658200264
+In Save Epoch, Test Acc is:81.51, Test Loss is:0.5468046775341034
+In Save Epoch, Test Acc is:81.41, Test Loss is:0.5468670977592468
+In Save Epoch, Test Acc is:81.31, Test Loss is:0.549308151936531
+In Save Epoch, Test Acc is:81.54, Test Loss is:0.5462579312562943
+In Save Epoch, Test Acc is:81.58, Test Loss is:0.5460938465595245
+In Save Epoch, Test Acc is:81.54, Test Loss is:0.5455426322698593
+In Save Epoch, Test Acc is:81.51, Test Loss is:0.5453223536014556
+In Save Epoch, Test Acc is:81.47, Test Loss is:0.5461738029003144
+In Save Epoch, Test Acc is:81.62, Test Loss is:0.5435708983659744
+In Save Epoch, Test Acc is:81.72, Test Loss is:0.541353613615036
+In Save Epoch, Test Acc is:81.57, Test Loss is:0.543233752822876
+In Save Epoch, Test Acc is:81.35, Test Loss is:0.5450275178909302
+In Save Epoch, Test Acc is:81.5, Test Loss is:0.5469338690280914
+In Save Epoch, Test Acc is:81.6, Test Loss is:0.5436615191698074
+In Save Epoch, Test Acc is:81.64, Test Loss is:0.5429158569574356
+In Save Epoch, Test Acc is:81.38, Test Loss is:0.5457235508441926
+In Save Epoch, Test Acc is:81.55, Test Loss is:0.5449908569335937
+In Save Epoch, Test Acc is:81.39, Test Loss is:0.5456837681770325
+In Save Epoch, Test Acc is:81.32, Test Loss is:0.5456727359056472
+In Save Epoch, Test Acc is:81.59, Test Loss is:0.5433543722629547
+In Save Epoch, Test Acc is:81.49, Test Loss is:0.5421855414628982
+In Save Epoch, Test Acc is:81.56, Test Loss is:0.545492265033722
+In Save Epoch, Test Acc is:81.53, Test Loss is:0.542388612818718
+In Save Epoch, Test Acc is:81.65, Test Loss is:0.5416429177045822
+In Save Epoch, Test Acc is:81.7, Test Loss is:0.5421163287878037
+In Save Epoch, Test Acc is:81.7, Test Loss is:0.5424772310256958
+In Save Epoch, Test Acc is:81.72, Test Loss is:0.5420737275362014
+In Save Epoch, Test Acc is:81.66, Test Loss is:0.5434562291383743
+In Save Epoch, Test Acc is:81.52, Test Loss is:0.5424708466291428
+In Save Epoch, Test Acc is:81.71, Test Loss is:0.5407041688919068
+In Save Epoch, Test Acc is:81.7, Test Loss is:0.5418452867507935
+In Save Epoch, Test Acc is:81.67, Test Loss is:0.5392300812005997
+In Save Epoch, Test Acc is:81.56, Test Loss is:0.5412389483690262
+In Save Epoch, Test Acc is:81.37, Test Loss is:0.5396370316028595
+In Save Epoch, Test Acc is:81.67, Test Loss is:0.5415898509025574
+In Save Epoch, Test Acc is:81.75, Test Loss is:0.5378552595853806
+In Save Epoch, Test Acc is:81.6, Test Loss is:0.5409453076124191
+In Save Epoch, Test Acc is:81.69, Test Loss is:0.5395661595582962
+In Save Epoch, Test Acc is:81.65, Test Loss is:0.5373218324899673
+In Save Epoch, Test Acc is:81.71, Test Loss is:0.5394451073884964
+In Save Epoch, Test Acc is:81.76, Test Loss is:0.5388747880458832
+In Save Epoch, Test Acc is:81.63, Test Loss is:0.5399584979295731
+In Save Epoch, Test Acc is:81.69, Test Loss is:0.5388151045322418
+In Save Epoch, Test Acc is:81.79, Test Loss is:0.5359411987543106
+In Save Epoch, Test Acc is:81.79, Test Loss is:0.5381406137943268
+In Save Epoch, Test Acc is:81.87, Test Loss is:0.5388271404981613
+In Save Epoch, Test Acc is:81.88, Test Loss is:0.5376725238800049
+In Save Epoch, Test Acc is:81.86, Test Loss is:0.5352566653490066
+In Save Epoch, Test Acc is:81.63, Test Loss is:0.5373039584875107
+In Save Epoch, Test Acc is:81.79, Test Loss is:0.5356657427072525
+In Save Epoch, Test Acc is:81.9, Test Loss is:0.5349328938722611
+In Save Epoch, Test Acc is:81.91, Test Loss is:0.5349378308534622
+In Save Epoch, Test Acc is:82.09, Test Loss is:0.5350568858146667
+In Save Epoch, Test Acc is:82.0, Test Loss is:0.533590265917778
+In Save Epoch, Test Acc is:81.85, Test Loss is:0.5380592722415924
+In Save Epoch, Test Acc is:81.92, Test Loss is:0.5387062787532806
+In Save Epoch, Test Acc is:81.97, Test Loss is:0.5363464612722397
+In Save Epoch, Test Acc is:81.86, Test Loss is:0.5355945133924485
+In Save Epoch, Test Acc is:81.98, Test Loss is:0.5367289958953857
+In Save Epoch, Test Acc is:81.69, Test Loss is:0.5386161504745484
+In Save Epoch, Test Acc is:81.94, Test Loss is:0.5330000196456909
+In Save Epoch, Test Acc is:81.87, Test Loss is:0.5359826289176941
+In Save Epoch, Test Acc is:81.74, Test Loss is:0.5347710848808288
+In Save Epoch, Test Acc is:82.02, Test Loss is:0.5310824349403381
+In Save Epoch, Test Acc is:81.94, Test Loss is:0.5337841988563538
+In Save Epoch, Test Acc is:81.8, Test Loss is:0.5311846291303635
+In Save Epoch, Test Acc is:82.05, Test Loss is:0.5320786372423172
+In Save Epoch, Test Acc is:81.98, Test Loss is:0.5336834872245788
+In Save Epoch, Test Acc is:81.8, Test Loss is:0.5329599826812744
+In Save Epoch, Test Acc is:81.74, Test Loss is:0.5327918619871139
+In Save Epoch, Test Acc is:82.22, Test Loss is:0.5309908316373825
+In Save Epoch, Test Acc is:81.83, Test Loss is:0.5303734985589981
+In Save Epoch, Test Acc is:81.62, Test Loss is:0.5328471496582031
+In Save Epoch, Test Acc is:82.26, Test Loss is:0.5321131299972535
+In Save Epoch, Test Acc is:82.01, Test Loss is:0.5298858000516892
+In Save Epoch, Test Acc is:82.15, Test Loss is:0.5279351135015488
+In Save Epoch, Test Acc is:82.08, Test Loss is:0.5325391722202301
+In Save Epoch, Test Acc is:82.05, Test Loss is:0.5315338105440139
+In Save Epoch, Test Acc is:82.06, Test Loss is:0.5307452252149581
+In Save Epoch, Test Acc is:82.03, Test Loss is:0.5296793128967285
+In Save Epoch, Test Acc is:82.01, Test Loss is:0.5284171919345856
+In Save Epoch, Test Acc is:82.23, Test Loss is:0.5277087572813034
+In Save Epoch, Test Acc is:82.27, Test Loss is:0.5297535320758819
+In Save Epoch, Test Acc is:82.35, Test Loss is:0.5264445881843567
+In Save Epoch, Test Acc is:82.11, Test Loss is:0.5295777083873748
+In Save Epoch, Test Acc is:82.01, Test Loss is:0.5290098768472672
+In Save Epoch, Test Acc is:82.16, Test Loss is:0.5293821473836898
+In Save Epoch, Test Acc is:82.01, Test Loss is:0.5310065577507019
+In Save Epoch, Test Acc is:82.13, Test Loss is:0.5319731782674789
+In Save Epoch, Test Acc is:82.05, Test Loss is:0.5310665414333343
+In Save Epoch, Test Acc is:82.04, Test Loss is:0.5313879803419114
+In Save Epoch, Test Acc is:81.83, Test Loss is:0.5297347647905349
+In Save Epoch, Test Acc is:82.15, Test Loss is:0.5262603659391403
+In Save Epoch, Test Acc is:82.13, Test Loss is:0.5257336685180664
+In Save Epoch, Test Acc is:82.0, Test Loss is:0.5267863771915435
+In Save Epoch, Test Acc is:82.1, Test Loss is:0.527668222618103
+In Save Epoch, Test Acc is:82.18, Test Loss is:0.5221734339475632
+In Save Epoch, Test Acc is:82.2, Test Loss is:0.5252715545415878
+In Save Epoch, Test Acc is:81.96, Test Loss is:0.5292154744386673
+In Save Epoch, Test Acc is:82.06, Test Loss is:0.5276666760444642
+In Save Epoch, Test Acc is:81.92, Test Loss is:0.5270435323238373
+In Save Epoch, Test Acc is:82.23, Test Loss is:0.5252815665960312
+In Save Epoch, Test Acc is:82.22, Test Loss is:0.524759042930603
+In Save Epoch, Test Acc is:82.17, Test Loss is:0.5261176524400711
+In Save Epoch, Test Acc is:82.27, Test Loss is:0.5280990437984466
+In Save Epoch, Test Acc is:82.1, Test Loss is:0.5243919831752777
+In Save Epoch, Test Acc is:82.23, Test Loss is:0.5248278386592865
+In Save Epoch, Test Acc is:82.23, Test Loss is:0.524399703335762
+In Save Epoch, Test Acc is:82.1, Test Loss is:0.5247559316396714
+In Save Epoch, Test Acc is:82.24, Test Loss is:0.5253460342645645
+In Save Epoch, Test Acc is:82.2, Test Loss is:0.5233078077793122
+In Save Epoch, Test Acc is:82.25, Test Loss is:0.521993905043602
+In Save Epoch, Test Acc is:82.14, Test Loss is:0.5224393686056137
+In Save Epoch, Test Acc is:82.42, Test Loss is:0.5225899974346161
+In Save Epoch, Test Acc is:82.04, Test Loss is:0.5277339041948318
+In Save Epoch, Test Acc is:82.35, Test Loss is:0.5239144220590591
+In Save Epoch, Test Acc is:82.17, Test Loss is:0.5229382130861282
+In Save Epoch, Test Acc is:82.35, Test Loss is:0.5228951170444488
+In Save Epoch, Test Acc is:82.29, Test Loss is:0.5234552917480468
+In Save Epoch, Test Acc is:82.42, Test Loss is:0.5209419362306594
+In Save Epoch, Test Acc is:82.25, Test Loss is:0.522605408000946
+In Save Epoch, Test Acc is:82.01, Test Loss is:0.5283317504644394
+In Save Epoch, Test Acc is:82.19, Test Loss is:0.5243233963489532
+In Save Epoch, Test Acc is:82.45, Test Loss is:0.5239406009674072
+In Save Epoch, Test Acc is:82.35, Test Loss is:0.5224702996015549
+In Save Epoch, Test Acc is:82.4, Test Loss is:0.5225757237911224
+In Save Epoch, Test Acc is:82.4, Test Loss is:0.5222304754137993
+In Save Epoch, Test Acc is:82.07, Test Loss is:0.5245128034830093
+In Save Epoch, Test Acc is:82.29, Test Loss is:0.523040745306015
+In Save Epoch, Test Acc is:82.09, Test Loss is:0.5227458706736564
+In Save Epoch, Test Acc is:82.29, Test Loss is:0.5227436534881592
+In Save Epoch, Test Acc is:82.4, Test Loss is:0.5217115322113037
+In Save Epoch, Test Acc is:82.11, Test Loss is:0.5224148822069168
+In Save Epoch, Test Acc is:82.04, Test Loss is:0.5220380871295929
+In Save Epoch, Test Acc is:82.2, Test Loss is:0.524407395362854
+In Save Epoch, Test Acc is:82.24, Test Loss is:0.5200805944204331
+In Save Epoch, Test Acc is:82.41, Test Loss is:0.521594484090805
+In Save Epoch, Test Acc is:82.37, Test Loss is:0.5215079171895981
+In Save Epoch, Test Acc is:82.41, Test Loss is:0.5228769021511078
+In Save Epoch, Test Acc is:82.23, Test Loss is:0.5236319699048996
+In Save Epoch, Test Acc is:82.26, Test Loss is:0.5209679949760437
+In Save Epoch, Test Acc is:82.26, Test Loss is:0.5213986961841584
+In Save Epoch, Test Acc is:82.23, Test Loss is:0.52061790766716
+In Save Epoch, Test Acc is:82.56, Test Loss is:0.521858144402504
+In Save Epoch, Test Acc is:82.33, Test Loss is:0.5171425148963928
+In Save Epoch, Test Acc is:82.51, Test Loss is:0.5200988591194153
+In Save Epoch, Test Acc is:82.65, Test Loss is:0.5183760671138763
+In Save Epoch, Test Acc is:82.6, Test Loss is:0.5180344838380814
+In Save Epoch, Test Acc is:82.2, Test Loss is:0.5184891211748123
+In Save Epoch, Test Acc is:82.37, Test Loss is:0.5217688930511475
+In Save Epoch, Test Acc is:82.43, Test Loss is:0.5196319074749947
+In Save Epoch, Test Acc is:82.82, Test Loss is:0.5175931539058686
+In Save Epoch, Test Acc is:82.21, Test Loss is:0.5202591366052628
+In Save Epoch, Test Acc is:82.26, Test Loss is:0.5199938005447388
+In Save Epoch, Test Acc is:82.7, Test Loss is:0.5189151051282883
+In Save Epoch, Test Acc is:82.46, Test Loss is:0.5188503556251526
+In Save Epoch, Test Acc is:82.31, Test Loss is:0.5241294215679169
+In Save Epoch, Test Acc is:82.68, Test Loss is:0.5177297003746033
+In Save Epoch, Test Acc is:82.4, Test Loss is:0.5224458455324174
+In Save Epoch, Test Acc is:82.57, Test Loss is:0.5191781987905503
+In Save Epoch, Test Acc is:82.51, Test Loss is:0.5172180254817009
+In Save Epoch, Test Acc is:82.47, Test Loss is:0.5173489741325379
+In Save Epoch, Test Acc is:82.32, Test Loss is:0.5248295487880706
+In Save Epoch, Test Acc is:82.62, Test Loss is:0.5155373987197875
+In Save Epoch, Test Acc is:82.73, Test Loss is:0.5173103905916214
+In Save Epoch, Test Acc is:82.65, Test Loss is:0.5158405020236969
+In Save Epoch, Test Acc is:82.64, Test Loss is:0.5181447546005249
+In Save Epoch, Test Acc is:82.57, Test Loss is:0.519533894944191
+In Save Epoch, Test Acc is:82.68, Test Loss is:0.5153473259687423
+In Save Epoch, Test Acc is:82.75, Test Loss is:0.5129137053489685
+In Save Epoch, Test Acc is:82.47, Test Loss is:0.5197424431562424
+In Save Epoch, Test Acc is:82.66, Test Loss is:0.5166016124010087
+In Save Epoch, Test Acc is:82.48, Test Loss is:0.5199546200275421
+In Save Epoch, Test Acc is:82.69, Test Loss is:0.5196593228578568
+In Save Epoch, Test Acc is:82.3, Test Loss is:0.5166222452402115
